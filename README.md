@@ -13,6 +13,11 @@ Social Media application to detect mental health disorders in adoloscents and Pw
 - [Project 3] CoviAid (https://github.com/mtabishk/coviaid-mobile-app.git) :
 App to enable institutes to make sure that all COVID19 norms are abided.
 
+-[Project-4] Text Based Puzzle
+-[Project-5] SparkAR FIlter for Indian Premier League
+-[Project-6] Personal Portfolio (https://dhvanigupta27-portfolio.netlify.app/)
+-[Project-6] Pedestrian Detection in a Live Camera Video Feed
+
 ## 🌱 Technologies
 
 - Programming Languages: Java, Python, JavaScript
